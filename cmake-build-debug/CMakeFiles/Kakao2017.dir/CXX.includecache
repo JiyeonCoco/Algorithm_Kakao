@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jungjiyeon/CLionProjects/Kakao2017/Cache.cpp
+iostream
+-
+vector
+-
+string
+-
+cstring
+-
+algorithm
+-
+
